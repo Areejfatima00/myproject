@@ -1,0 +1,16 @@
+"use strict";
+var num1 = 4;
+var num2 = 2;
+var result = num1 + num2;
+console.log(result);
+var result = num1 - num2;
+console.log(result);
+var result = num1 * num2;
+console.log(result);
+var result = num1 / num2;
+console.log(result);
+var num4 = 2 == 2;
+console.log(num4);
+var num5 = 7;
+num5 += 3;
+console.log(num5);
